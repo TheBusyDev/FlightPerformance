@@ -6,13 +6,13 @@ In the following plots, you can find these performance coefficients:
 - &eta;<sub>th</sub> --> Thermodynamic Cycle Efficiency
 - &eta;<sub>p</sub> --> Propulsive Efficiency
 - &eta;<sub>o</sub> --> Overall Propulsion Efficiency\
-\
-![](/plots/TSFC.png)\
-\
-![](/plots/I.png)\
-\
-![](/plots/n_th.png)\
-\
-![](/plots/n_p.png)\
-\
-![](/plots/n_o.png)\
+
+![](/plots/TSFC.png)
+
+![](/plots/I.png)
+
+![](/plots/n_th.png)
+
+![](/plots/n_p.png)
+
+![](/plots/n_o.png)
